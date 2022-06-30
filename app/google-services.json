@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "215923930776",
+    "firebase_url": "https://frenchopedia-5b3b2.firebaseio.com",
+    "project_id": "frenchopedia-5b3b2",
+    "storage_bucket": "frenchopedia-5b3b2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:215923930776:android:7e26253dc035a0723ec2ed",
+        "android_client_info": {
+          "package_name": "com.example.project_akhir"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "215923930776-9tg8tg4nd03j378e0ecsa7s6dslnapa2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAd4j1FPKMv7QzodlHfcbrB-GbMMocE6i0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "215923930776-2ai1jt13othcrmp605jqqj0dne0mpf5m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

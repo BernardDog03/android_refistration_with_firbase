@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".admin_login"
+    android:orientation="vertical"
+    android:layout_gravity="center"
+    android:gravity="center"
+    android:background="@drawable/bg">
+    <LinearLayout
+        android:layout_width="350dp"
+        android:layout_height="500dp"
+        android:background="@drawable/layout"
+        android:orientation="vertical"
+        android:layout_gravity="center"
+        android:gravity="center">
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/logo"
+            android:clickable="true"/>
+        <EditText
+            android:id = "@+id/editText1"
+            android:layout_width = "200dp"
+            android:layout_height = "wrap_content"
+            android:inputType = "text"
+            android:hint="Admin"
+            android:layout_gravity="center"
+            android:gravity="center"/>
+
+        <EditText
+            android:id = "@+id/editText2"
+            android:layout_width = "200dp"
+            android:layout_height = "wrap_content"
+            android:hint="*****"
+            android:inputType="textPassword"
+            android:layout_gravity="center"
+            android:gravity="center"/>
+        <Button
+            android:id = "@+id/button1"
+            android:layout_width = "100dp"
+            android:layout_height = "wrap_content"
+            android:text = "Login"
+            android:background="@drawable/buttonedtx"
+            android:layout_marginTop="20dp"/>
+    </LinearLayout>
+</LinearLayout>

@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">Frenchopedia</string>
+    <array name="gender">
+        <item>Male</item>
+        <item>Female</item>
+    </array>
+    <array name="lokasi">
+        <item>Jakarta, Frenchopedia French Embassy (HQ)</item>
+        <item>Jakarta, Frenchopedia Fatmawati</item>
+        <item>Jakarta, Frenchopedia Bintaro</item>
+        <item>Jakarta, Frenchopedia Kelapa Gading</item>
+        <item>Jakarta, Frenchopedia Pramuka</item>
+        <item>Aceh, Frenchopedia Malikussaleh University</item>
+        <item>Aceh, Frenchopedia Daud Beureueh</item>
+        <item>Medan, Frenchopedia Univ. Sumatra Utara</item>
+        <item>Medan, Frenchopedia Univ. Negri Medan</item>
+        <item>Medan, Frenchopedia Medan</item>
+        <item>Padang, Frenchopedia Rasuna Said</item>
+        <item>padang, Frenchopedia Andalas University</item>
+        <item>padang, Frenchopedia Payakumbuh</item>
+        <item>Palembang, Frenchopedia Sudirman</item>
+        <item>Depok, Frenchopedia University of Indonesia</item>
+        <item>Depok, Frenchopedia Margonda</item>
+        <item>Depok, renchopedia Gunadarma University</item>
+        <item>Bekasi, Frenchopedia Galaxy</item>
+        <item>Bekasi, Frenchopedia Mutiara Gading</item>
+        <item>Bekasi, Frenchopedia Cibubur</item>
+        <item>Bogor, Frenchopedia IPB University</item>
+        <item>Bogor, Frenchopedia Pajajaran</item>
+        <item>Bogor, Frenchopedia Cibinong</item>
+        <item>Bandung, Frenchopedia Bandung Institute of Technology</item>
+        <item>Bandung, Frenchopedia Padjadjaran University</item>
+        <item>Bandung, Frenchopedia Martadinata</item>
+        <item>Yogyakarta, Frenchopedia Yogyakarta</item>
+        <item>Yogyakarta, Frenchopedia Taman Siswa</item>
+        <item>Yogyakarta, Frenchopedia Gadjah Mada University</item>
+        <item>Banjarmasin, Frenchopedia Gatot Subroto</item>
+        <item>Makassar, Frenchopedia Panakukang</item>
+        <item>Makassar, Frenchopedia Ratulangi</item>
+        <item>Surabaya, Frenchopedia Ngagel</item>
+        <item>Surabaya, Frenchopedia Gayung Sari</item>
+        <item>Malang, Frenchopedia Malang</item>
+        <item>Malang, Frenchopedia State University of Malang</item>
+    </array>
+    <array name="day">
+        <item>Mon, Tue, Wed</item>
+        <item>Mon, Wed, Fri</item>
+        <item>Tue, Thu, Sat</item>
+        <item>Fri, Sat, Sun</item>
+        <item>Mon, Wed</item>
+        <item>Mon, Fri</item>
+        <item>Tue, Thu</item>
+        <item>Tue, Sat</item>
+        <item>Sat, Sun</item>
+    </array>
+    <array name="jam">
+        <item>08.00 - 11.30</item>
+        <item>13.30 - 17.30</item>
+        <item>18.00 - 22.00</item>
+    </array>
+</resources>

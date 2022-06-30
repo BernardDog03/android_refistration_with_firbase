@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.project_akhir">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".RequestsDetailsActivity3"></activity>
+        <activity
+            android:name=".display3"/>
+        <activity android:name=".RequestsDetailsActivity2" />
+        <activity
+            android:name=".display2"/>
+        <activity android:name=".admin_login" />
+        <activity
+            android:name=".display1"/>
+        <activity android:name=".about" />
+        <activity android:name=".RequestsDetailsActivity" />
+        <activity android:name=".conver" />
+        <activity android:name=".expert" />
+        <activity android:name=".greeting" />
+        <activity
+            android:name=".DisplayActivity"/>
+        <activity android:name=".basic" />
+        <activity android:name=".splash">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".MainActivity" />
+        <activity android:name=".MainActivity2" />
+    </application>
+
+</manifest>
